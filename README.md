@@ -1,4 +1,5 @@
 # ehko
+**Since this was only a test, this repo is archived**
 An echo clone I made to test clap.  
 eko and ekho were already taken :(  
 ## How to use it  
